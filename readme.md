@@ -1,2 +1,2 @@
 Useful Git and Linux commands 
-git push - transmit local branch commits to the remote repo branch
+git remote add - add a git url as an alias

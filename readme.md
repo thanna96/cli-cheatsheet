@@ -1,2 +1,2 @@
-Useful Git and Linux commands
-git fetch - fetch down all the branches from that Git remote
+Useful Git and Linux commands 
+git push - transmit local branch commits to the remote repo branch

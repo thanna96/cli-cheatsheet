@@ -1,2 +1,2 @@
 Useful Git and Linux commands
-git fetch - fetch down all the branches from that Git remote
+git reset - clear staging area, rewrite working tree from specified contents

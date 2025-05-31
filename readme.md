@@ -1,2 +1,2 @@
 Useful Git and Linux commands
-git stash - Save modified and staged changes
+git show [SHA] - show any object in Git in human-readable format

@@ -1,2 +1,2 @@
 Useful Git and Linux commands
-git fetch - fetch down all the branches from that Git remote
+git branch - list your branches. a * will appear next to the currently active branch

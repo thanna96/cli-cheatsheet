@@ -1,2 +1,2 @@
 Useful Git and Linux commands
-git show [SHA] - show any object in Git in human-readable format
+git pull - fetch and merge any commits from the tracking remote branch

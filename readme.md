@@ -1,2 +1,2 @@
 Useful Git and Linux commands
-git fetch - fetch down all the branches from that Git remote
+git rm [file] - delete the file from project and stage the removal for commit

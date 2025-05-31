@@ -3,4 +3,5 @@ git fetch - fetch down all the branches from that Git remote
 git log - show the commit histor for the currently active branch.
 git remote add - add a git url as an alias
 git reset - clear staging area, rewrite working tree from specified contents
+git status - show modified files in working directory, staged for your next commit
 

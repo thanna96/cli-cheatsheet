@@ -12,3 +12,4 @@ git show [SHA] - show any object in Git in human-readable format
 git pull - fetch and merge any commits from the tracking remote branch
 git diff - diff of what is changed but not staged
 git init - initialize an existing directory as a Git repository
+git branch - list your branches. a * will appear next to the currently active branch

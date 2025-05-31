@@ -1,4 +1,5 @@
 Useful Git and Linux commands<br/>
+git remote add [alias] [url] - add a git URL as an alias<br/>
 git fetch - fetch down all the branches from that Git remote<br/>
 git log - show the commit histor for the currently active branch.<br/>
 git remote add - add a git url as an alias<br/>
@@ -13,3 +14,4 @@ git pull - fetch and merge any commits from the tracking remote branch<br/>
 git diff - diff of what is changed but not staged<br/>
 git init - initialize an existing directory as a Git repository<br/>
 git branch - list your branches. a * will appear next to the currently active branch<br/>
+

@@ -7,3 +7,4 @@ git status - show modified files in working directory, staged for your next comm
 git merge [alias]/[branch] - merge a remote branch into your current branch to bring it up to date
 git rm [file] - delete the file from project and stage the removal for commit
 git mv [existing-path] [new-path] - change an existing file path and stage the move
+git stash - Save modified and staged changes

@@ -1,2 +1,2 @@
 Useful Git and Linux commands
-git fetch - fetch down all the branches from that Git remote
+git merge [alias]/[branch] - merge a remote branch into your current branch to bring it up to date

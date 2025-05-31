@@ -9,3 +9,4 @@ git rm [file] - delete the file from project and stage the removal for commit
 git mv [existing-path] [new-path] - change an existing file path and stage the move
 git stash - Save modified and staged changes
 git show [SHA] - show any object in Git in human-readable format
+git pull - fetch and merge any commits from the tracking remote branch

@@ -1,2 +1,2 @@
 Useful Git and Linux commands
-git pull - fetch and merge any commits from the tracking remote branch
+git diff - diff of what is changed but not staged

@@ -1,2 +1,2 @@
 Useful Git and Linux commands
-git fetch - fetch down all the branches from that Git remote
+git status - show modified files in working directory, staged for your next commit

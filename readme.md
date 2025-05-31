@@ -10,3 +10,4 @@ git mv [existing-path] [new-path] - change an existing file path and stage the m
 git stash - Save modified and staged changes
 git show [SHA] - show any object in Git in human-readable format
 git pull - fetch and merge any commits from the tracking remote branch
+git diff - diff of what is changed but not staged
